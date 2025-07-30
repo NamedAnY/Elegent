@@ -9,19 +9,3 @@
 # 其它需求
 ## 抖音侧边栏
 ## 抖音添加桌面
-
-
-
-<style>
-h1 {
-    text-align: center;
-    border-bottom: solid;
-    color: red;
-}
-
-h2 {
-    border-bottom: none;
-    color: Aqua;
-}
-
-</style>
