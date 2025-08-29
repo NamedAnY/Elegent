@@ -1,1 +1,12 @@
-# 你看你妈呢
+<p style="color:red; font-size:40px; text-align:center;">你看你妈呢</p>
+<p style="color:blue; font-size:28px; text-align:left;">你看你妈呢</p>
+<p style="color:green; font-size:32px; text-align:right;">你看你妈呢</p>
+<p style="color:purple; font-size:22px; text-align:center;">你看你妈呢</p>
+<p style="color:orange; font-size:36px; text-align:left;">你看你妈呢</p>
+<p style="color:teal; font-size:24px; text-align:right;">你看你妈呢</p>
+<p style="color:brown; font-size:30px; text-align:center;">你看你妈呢</p>
+<p style="color:magenta; font-size:26px; text-align:left;">你看你妈呢</p>
+<p style="color:darkcyan; font-size:34px; text-align:right;">你看你妈呢</p>
+<p style="color:gold; font-size:20px; text-align:center;">你看你妈呢</p>
+<p style="color:indigo; font-size:38px; text-align:left;">你看你妈呢</p>
+<p style="color:tomato; font-size:27px; text-align:right;">你看你妈呢</p>
